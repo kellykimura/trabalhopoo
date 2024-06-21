@@ -1,4 +1,6 @@
-package trabalho;
+package trabalho.modelo;
+
+import trabalho.modelo.Funcionario;
 
 public class Tecnico extends Funcionario {
     

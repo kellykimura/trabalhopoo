@@ -1,4 +1,4 @@
-package trabalho;
+package trabalho.modelo;
 
 public class Departamento {
     

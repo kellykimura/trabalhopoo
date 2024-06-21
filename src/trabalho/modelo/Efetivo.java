@@ -1,4 +1,6 @@
-package trabalho;
+package trabalho.modelo;
+
+import trabalho.modelo.Docente;
 
 public class Efetivo extends Docente{
     

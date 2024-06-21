@@ -1,4 +1,4 @@
-package trabalho;
+package trabalho.modelo;
 
 public abstract class Docente extends Funcionario{
     
